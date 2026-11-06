@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fire Remote</string>
+    <string name="service_label">Fire Remote Receiver</string>
+    <string name="service_description">Lets your phone move a pointer, tap, scroll, navigate and launch apps on this Fire TV.</string>
+
+    <string name="title">Fire Remote</string>
+    <string name="status_on">Service is running</string>
+    <string name="status_off">Service is OFF - enable it (see below)</string>
+    <string name="address_fmt">Address: %1$s   Port: %2$d</string>
+    <string name="pin_label">Pairing PIN (type this on your phone)</string>
+    <string name="btn_settings">Open Accessibility settings</string>
+    <string name="btn_new_pin">New PIN</string>
+    <string name="settings_missing">Accessibility settings could not be opened here. Use the ADB command shown below.</string>
+    <string name="help_text">If the service is OFF and it is not listed in Settings > Accessibility, enable it from a computer:\n\nadb shell settings put secure enabled_accessibility_services com.rajat.fireremote.tv/com.rajat.fireremote.tv.RemoteAccessibilityService\nadb shell settings put secure accessibility_enabled 1</string>
+</resources>
