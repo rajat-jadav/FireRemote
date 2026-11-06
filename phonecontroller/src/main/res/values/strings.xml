@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fire Remote</string>
+
+    <string name="hint_ip">TV IP address</string>
+    <string name="hint_pin">PIN</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+
+    <string name="status_idle">Not connected</string>
+    <string name="status_connecting">Connecting to %1$s ...</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="enter_details">Enter the TV IP address and the 6-digit PIN shown on the TV.</string>
+
+    <string name="mode_touchpad">Touchpad</string>
+    <string name="mode_dpad">D-Pad</string>
+    <string name="mode_apps">Apps</string>
+
+    <string name="speed">Speed</string>
+    <string name="touchpad_description">Touchpad. Drag to move the pointer.</string>
+
+    <string name="apps_hint">Tap an app to launch it. Tap the star to pin favourites to the top.</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="vol_down">Vol -</string>
+    <string name="mute">Mute</string>
+    <string name="vol_up">Vol +</string>
+
+    <string name="dpad_up">Up</string>
+    <string name="dpad_down">Down</string>
+    <string name="dpad_left">Left</string>
+    <string name="dpad_right">Right</string>
+    <string name="dpad_ok">OK</string>
+</resources>
