@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF101018</color>
+    <color name="panel">#FF1B1B28</color>
+    <color name="accent">#FFFF8F00</color>
+    <color name="on_accent">#FF1A1A1A</color>
+    <color name="tonal">#FF3A2E1A</color>
+    <color name="on_tonal">#FFFFE0B2</color>
+    <color name="ok_green">#FF4CAF50</color>
+    <color name="bad_red">#FFFF5252</color>
+    <color name="muted">#FF9A9AB0</color>
+</resources>
